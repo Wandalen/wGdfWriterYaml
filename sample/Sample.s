@@ -3,5 +3,5 @@ let _ = require( 'wgdfwriteryaml' );
 
 /**/
 
-___
+console.log( '___ not implemented ___' );
 
